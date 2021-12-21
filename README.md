@@ -12,3 +12,6 @@ First modification by cindy1407 on devCindy branch
 First modification by jean2206 on devJean branch
 
 Another modification to test manual commit with VS Code
+
+A modification to test git diff command
+
